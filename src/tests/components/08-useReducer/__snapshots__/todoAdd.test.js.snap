@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in todoAdd Should match with snapshot 1`] = `
+Array [
+  Array [
+    "",
+    <h3
+      className="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+    >
+      Add Todo
+    </h3>,
+  ],
+  <form
+    onSubmit={[Function]}
+  >
+    Array [
+      "",
+      Array [
+        "",
+        <div
+          className="MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary css-a88p61-MuiInputBase-root-MuiInput-root"
+          onClick={[Function]}
+        >
+          Array [
+            "",
+            <input
+              autoComplete="off"
+              className="MuiInput-input MuiInputBase-input css-1x51dt5-MuiInputBase-input-MuiInput-input"
+              name="description"
+              onAnimationStart={[Function]}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Aprender ..."
+              type="text"
+              value=""
+            />,
+          ]
+        </div>,
+      ],
+    ]
+    Array [
+      "",
+      Array [
+        "",
+        <button
+          className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="submit"
+        >
+          Add
+          Array [
+            "",
+            <span
+              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />,
+          ]
+        </button>,
+      ],
+    ]
+  </form>,
+]
+`;

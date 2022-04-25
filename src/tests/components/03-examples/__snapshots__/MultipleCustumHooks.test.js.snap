@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en MultipleCustomHooks Should match agains snapshot 1`] = `
+<Fragment>
+  <div>
+    <h1>
+      Breaking bdas Quotes
+    </h1>
+    <p>
+      Counter
+      10
+    </p>
+  </div>
+  <div
+    data-id="alert"
+  >
+    Loading..
+  </div>
+  <WithStyles(ForwardRef(Button))
+    onClick={[MockFunction]}
+  >
+    Siguiente
+  </WithStyles(ForwardRef(Button))>
+</Fragment>
+`;

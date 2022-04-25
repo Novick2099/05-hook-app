@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in Real ExampleRef Should match to snapshot 1`] = `
+<div>
+  <h2>
+    Real Example Hook
+  </h2>
+  <hr />
+  <WithStyles(ForwardRef(Button))
+    onClick={[Function]}
+  >
+    Show / Hide
+  </WithStyles(ForwardRef(Button))>
+</div>
+`;
